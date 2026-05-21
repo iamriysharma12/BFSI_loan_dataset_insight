@@ -6,8 +6,8 @@ Goal/problem statement for this project is: "Analyze a BFSI (Banking, Financial 
 
 In simpler terms, you are trying to answer:
 
-1.) Which loan products have the highest default rates? /n
-2.)Which cities/branches are performing well or poorly? /n
-3.)What is the overall portfolio health — outstanding balance, NPA count, default rate? /n
-4.)How is the credit score distributed across customers? /n
-5.)Which relationship managers are bringing in the most business? /n
+1.) Which loan products have the highest default rates? 
+2.)Which cities/branches are performing well or poorly? 
+3.)What is the overall portfolio health — outstanding balance, NPA count, default rate? 
+4.)How is the credit score distributed across customers? 
+5.)Which relationship managers are bringing in the most business? 
